@@ -1,6 +1,5 @@
-# next-level-week-booster - com Diego Fernandes
-## NLW - Next Level Week é produzido pela Rocketseat, e ao longo destasema vamos criar um App chamado Ecoleta, seu marketplace de coleta 
-de resíduos.
+## NLW booster - com Diego Fernandes
+### Next Level Week é produzido pela Rocketseat, e ao longo desta semana vamos criar um App chamado Ecoleta, um marketplace de coleta de resíduos.
 
 
 
